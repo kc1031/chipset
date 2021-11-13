@@ -1,0 +1,134 @@
+h1 {
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+}
+h2{
+    font-weight: lighter;
+    font-size: 15px;
+}
+section, time, aside{
+    font-size: 14px;
+    font-family: cursive;
+    font-weight: lighter;
+}
+body{
+    text-align: center;
+}
+.agrupar{
+    width: 1000px;
+    margin: auto;
+    background-color:#27272D;
+    border: 1px solid black;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background: #CACACA;
+    border: 1px;
+    padding: 10px;
+    color: black;
+
+    
+}
+
+    
+
+.menu{
+    background-color:black;
+    padding: 5px 15px;
+    text-align: left;
+    color: white;
+}
+.menu li{
+    list-style: none;
+    padding: 5px;
+    font:bold 14px cursive;
+    display: inline-block;
+
+}
+.seccion{
+margin: 25px;
+width: 600px;
+float: left;
+
+}
+article{
+    margin: 20px;
+}
+
+.columna{
+    width: 200px;
+    float: left;
+    margin: 50px 0;
+    color: #3B3BFF;
+
+}
+.pie{
+    clear: both;
+}
+.articulo1{
+    border: 1px solid #7B7A7A;
+    color: #E3E3E3;
+}
+.articulo1 h1{
+    color: #3B3BFF;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.articulo1 img{
+    height: 200px; 
+}
+.articulo2{
+    border: 1px solid #7B7A7A;
+    color: white;
+}
+.articulo2 h2
+{
+    color: #3B3BFF;
+}
+.articulo2 h4{
+    color: green;
+}
+.articulo3{
+border: 1px solid #7B7A7A ;
+color: white;
+}
+
+.articulo3 h2{
+    color: #3B3BFF;
+}
+.articulo3 h4{
+    color: green;
+}
+.articulo4{
+    border: 1px solid #7B7A7A;
+    color: white;
+}
+.articulo4 h2{
+    color: #3B3BFF;
+}
+.articulo4 footer{
+color: green;
+}
+.articulo5{
+    border: 1px solid #7B7A7A;
+    color: white;
+}
+.articulo5 h2{
+    color: #3B3BFF;
+}
+.articulo5 footer{
+    color: yellow;
+}
+.pie{
+    background-color: white;
+}
+.pie img{
+    height: 100px;
+    text-align: right;
+}
+
+
